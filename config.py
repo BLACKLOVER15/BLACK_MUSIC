@@ -14,9 +14,9 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","Blacklover_uff")
+OWNER_USERNAME = getenv("OWNER_USERNAME","EAGLE8459")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "MusicScam_Black_Bot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "EAGEL_MUSIC_XD_BOT")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "BlackMusic")
 # ---------------------------------------------------------
@@ -38,7 +38,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 LOGGER_ID = int(getenv("LOGGER_ID", -1002108904207))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 6950353753))
+OWNER_ID = int(getenv("OWNER_ID", 1901620257))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/QuizBot_All_Exam")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Exampur15")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/EAGLEVIJaaY")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+48aEFHzqvEhlOTU9")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -141,13 +141,13 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/a80d3a39309667d8ecb83.png"
+    "START_IMG_URL", "https://telegra.ph/file/746aedd31f05eedbd9af7.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://telegra.ph/file/a80d3a39309667d8ecb83.png"
 )
 PLAYLIST_IMG_URL = "https://telegra.ph/file/d723f4c80da157fca1678.jpg"
-STATS_IMG_URL = "https://telegra.ph/file/d30d11c4365c025c25e3e.jpg"
+STATS_IMG_URL = "https://telegra.ph/file/746aedd31f05eedbd9af7.jpg"
 TELEGRAM_AUDIO_URL = "https://telegra.ph/file/48f39202823b358203234.jpg"
 TELEGRAM_VIDEO_URL = "https://telegra.ph/file/e575ae40d6635250974e1.jpg"
 STREAM_IMG_URL = "https://telegra.ph/file/03efec694e41e891b29dc.jpg"
